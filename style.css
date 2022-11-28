@@ -1,0 +1,71 @@
+p {
+    margin: 50px;
+    border-style: solid;
+    border-width: 1mm;
+  }
+  p.abc {
+    background-color: black;
+    color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    border-top-color: gray;
+    border-bottom-color: gray;
+    border-left-color: black;
+    border-right-color: black;
+    border-style: outset;
+    font-size: medium;
+    border-width: 1mm;
+    padding-left:  1mm;
+    padding-right: 1mm;
+  }
+  p.efg {
+    background-color: black;
+    color: silver;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+    border-style: ridge;
+    border-top-color: gold;
+    border-bottom-color: gold;
+    border-left-color: darkgoldenrod;
+    border-right-color: darkgoldenrod;
+    border-width: 2mm;
+  }
+ 
+  img {
+    border-radius: 50%;
+    border-style: double;
+    margin-left: 175px;
+    width: 50mm;
+  }
+  .background_image{
+background-image: url(/images/download\ \(1\).jfif);
+ }
+  p {
+  color: silver;
+  border-color: black;
+  font-family: 'Times New Roman', Times, serif;
+  border-top-color: black;
+  border-bottom-color:black;
+  border-left-color: silver;
+  border-right-color: silver;
+  background-color: black;
+  border-style: solid;
+  border-width: 1.5mm;
+  font-size: medium
+}
+
+ol { font-size: 10mm;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: firebrick;
+  background-color: gold;
+  border-style: ridge;
+  border-width: 1mm;
+  border-color: silver;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+  ul {font-size: 5mm;
+    border-style: double;
+    border-width: 3mm;
+    background-color: gray;
+    color: goldenrod;
+    border-radius: 5cm;}
